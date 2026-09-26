@@ -1,5 +1,6 @@
 # database-design-portfolio
 Relational database schemas, ERDs, 3NF normalization, and SQL scripts.
+
 I will be exploring and introducing the DATEPART function in SQL.
 
 -- FORMAT/SYNTAX
